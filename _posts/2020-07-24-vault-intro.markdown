@@ -1,5 +1,5 @@
 ---
-title: "Vault + Kubernetes!"
+title: "Vault + Kubernetes"
 layout: post
 date: 2020-07-24 22:48
 image: /assets/images/markdown.jpg
