@@ -13,6 +13,7 @@ category: blog
 description: Infrastructure as a Code: Terraform or Ansible?
 ---
 
+
 This post serves as introductory post to Infrastructure as a Code and its benefits. In this post, I will share some high level benefits of using tools like Terraform and Ansible to leverage on the benefits of Infrastructure as a Code. The following content are not meant to be too technical, and are based on my personal experiences after using these two tools. 
 
 ### What is Infrastructure as a Code?
