@@ -1,10 +1,16 @@
 ---
 title: "Infrastructure as a Code: Terraform or Ansible?"
-tags: 
+layout: post
+date: 2020-08-05 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
   - ansible
   - redhat
   - hashicorp
   - terraform
+category: blog
+description: Infrastructure as a Code: Terraform or Ansible?
 ---
 
 This post serves as introductory post to Infrastructure as a Code and its benefits. In this post, I will share some high level benefits of using tools like Terraform and Ansible to leverage on the benefits of Infrastructure as a Code. The following content are not meant to be too technical, and are based on my personal experiences after using these two tools. 
