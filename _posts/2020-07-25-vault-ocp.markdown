@@ -8,6 +8,22 @@ tags:
   - helm
 ---
 
+---
+title: "Running Vault on OpenShift"
+layout: post
+date: 2020-07-25 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+  - vault
+  - openshift
+  - hashicorp
+  - consul
+  - helm
+category: blog
+description: Vault handson on Red Hat OpenShift
+---
+
 Having discussed on Vault on Kubernetes in the [previous post][vault-intro], we will proceed with the detailed steps on running Vault on Kubernetes. In this scenario, we will run Vault on [OpenShift][ocp-docs], which is an enterprise version of Kubernetes developed by Red Hat.
 
 [ocp-docs]: https://docs.openshift.com/
