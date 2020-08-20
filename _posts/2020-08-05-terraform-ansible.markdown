@@ -10,7 +10,6 @@ tag:
   - hashicorp
   - terraform
 category: blog
-description: Infrastructure as a Code: Terraform or Ansible?
 ---
 
 
