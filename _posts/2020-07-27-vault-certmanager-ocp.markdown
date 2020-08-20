@@ -1,5 +1,5 @@
 ---
-title: "Running Vault on OpenShift"
+title: "Using Vault as a Certificate Manager on OpenShift"
 layout: post
 date: 2020-07-27 22:48
 image: /assets/images/markdown.jpg
@@ -12,7 +12,7 @@ tag:
   - certificate
   - pki
 category: blog
-description: Running Vault on OpenShift
+description: Using Vault as a Certificate Manager on OpenShift
 ---
 
 <center>
