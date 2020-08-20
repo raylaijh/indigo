@@ -38,10 +38,10 @@ disqus:
 # twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/raylaijh/
+linkedin: raylaijh
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/raylaijh
+github: raylaijh
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -52,13 +52,13 @@ github: https://github.com/raylaijh
 # lanyrd: mylanyrd
 email: raylaijh@gmail.com
 
-authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+#authors:
+  #johndoe:
+  #  name: John Doe
+  #  bio: A Man who travels the world eating noodles
+  #  external-image: false
+  #  picture: assets/images/profile.jpg
+  #  twitter: johndoe
   #jamesfoster:
   #  name: James Foster
   #  bio: A Man who develops software with coffee
