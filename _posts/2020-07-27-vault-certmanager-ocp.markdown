@@ -1,12 +1,18 @@
 ---
-title: "Using Vault as a Certificate Manager on OpenShift"
-tags: 
+title: "Running Vault on OpenShift"
+layout: post
+date: 2020-07-27 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
   - vault
   - openshift
   - hashicorp
   - helm
   - certificate
   - pki
+category: blog
+description: Running Vault on OpenShift
 ---
 
 <center>
