@@ -1,12 +1,15 @@
 ---
-title:  "Hello world!"
-header:
-  teaser: "/assets/images/500x300.png"
-categories: 
-  - Jekyll
-tags:
-  - hello
-  - world
+title: "Hello World!"
+layout: post
+date: 2020-07-24 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+category: blog
+description: test
 ---
 
 Testing out my first blog post with Jekyll!
