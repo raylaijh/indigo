@@ -16,7 +16,7 @@ description: Using Vault as a Certificate Manager on OpenShift
 ---
 
 <center>
-<img align="center" src="/assets/images/vault_cm_ocp1.png" alt=""> 
+<img align="center" src="/assets/images/vault_cm_ocp.png" alt=""> 
 </center>
 
 
