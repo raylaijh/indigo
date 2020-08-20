@@ -1,15 +1,5 @@
 ---
 title: "Running Vault on OpenShift"
-tags: 
-  - vault
-  - openshift
-  - hashicorp
-  - consul
-  - helm
----
-
----
-title: "Running Vault on OpenShift"
 layout: post
 date: 2020-07-25 22:48
 image: /assets/images/markdown.jpg
