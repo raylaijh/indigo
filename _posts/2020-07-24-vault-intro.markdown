@@ -1,9 +1,15 @@
 ---
-title: "Vault + Kubernetes"
-tags: 
-  - vault
-  - kuberbetes
-  - hashicorp
+title: "Vault + Kubernetes!"
+layout: post
+date: 2020-07-24 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- vault
+- kubernetes
+- hashicorp
+category: blog
+description: Vault running on k8s
 ---
 
 ## Vault - Secrets as a service
