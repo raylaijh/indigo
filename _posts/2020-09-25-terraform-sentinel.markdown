@@ -29,11 +29,7 @@ More details on Sentinel: https://docs.hashicorp.com/sentinel/concepts/
 
 ### Policy as Code + Infrastructure as Code
 
-<center>
-<img align="center" src="/assets/images/tfc_sentinel_workflow.png" alt=""> 
-</center>
-
-As seen from the workflow above, Sentinel integrates with Terraform Cloud natively and does the compliance checks during as part of the `plan` and `apply` process in Terraform. Let's take a quick look at how to set this up on Terraform Cloud and the results.
+Sentinel integrates with Terraform Cloud natively and does the compliance checks during as part of the `plan` and `apply` process in Terraform. Let's take a quick look at how to set this up on Terraform Cloud and the results.
 
 ## Prerequisites 
 
@@ -85,7 +81,12 @@ You can also read on the Policy check failure logs by clicking the drop down.
 
 ### Conclusion
 
-As seen above, enforcement of policies can be done even before the provisioning of resources with the help of Sentinel. Sentinel integrates nicely with Terraform in this way, and with the different tiers of enforcement levels available, organizations can make use of this as part of their existing workflows to ensure good Agile development and also achieve compliance and cost savings at the same time, compared to the usual workflow of enforcing security policies post provisioning. With that in place, the security and compliance team can manage the policies by just updating the repository associated with the policy set, without knowledge of operating Terraform or Terraform Cloud at all.
+<center>
+<img align="center" src="/assets/images/tfc_sentinel_workflow.png" alt=""> 
+</center>
+
+
+As seen above, enforcement of policies can be done even before the provisioning of resources with the help of Sentinel. Sentinel integrates nicely with Terraform in this way, and with the different tiers of enforcement levels available, organizations can make use of this as part of their existing workflows to ensure good Agile development and also achieve compliance and cost savings at the same time, compared to the usual workflow of enforcing security policies post provisioning. With that in place, the security and compliance team can manage the policies by just updating the repository associated with the policy set, without knowledge of operating Terraform or Terraform Cloud at all, as illustrated on the diagram above.
 
 This is a common cause of concern among organizations as the compliance check process is done usually after provisioning and at which sometimes, a possible breach may have already happened due to the sheer amount of resources provisioned at one time. Secondly, some of these resources may already be running essential workloads and the process of security compliance checking can cause disruption. 
 
