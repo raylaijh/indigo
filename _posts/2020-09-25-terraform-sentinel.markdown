@@ -1,5 +1,5 @@
 ---
-title: "Compliance on infrastructure provisioning: Policy as a Code"
+title: "Ensuring security compliance on infrastructure provisioning with Policy as a Code"
 layout: post
 date: 2020-09-25 15:37
 image: /assets/images/markdown.jpg
