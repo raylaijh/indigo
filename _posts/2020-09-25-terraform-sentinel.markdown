@@ -13,7 +13,7 @@ tag:
 category: blog
 ---
 
-Recently I had the chance to work on the features of Terraform Cloud for Business and was trying to understand its exclusive uses cases compared to the open source version of Terraform. Sentinel integration is one of them and I do feel that it value adds to an organization by solving a prevalent problem of ensuring security compliance of provisioned infrastructure.
+Recently I had the chance to work on the features of Terraform Cloud for Business (TFC4B) and was trying to understand its exclusive uses cases compared to the open source version of Terraform. Sentinel integration is one of them and I do feel that it value adds to an organization by solving a prevalent problem of ensuring security compliance of provisioned infrastructure.
 
 ### What is Sentinel?
 
@@ -33,7 +33,7 @@ Sentinel integrates with Terraform Cloud natively and does the compliance checks
 
 ## Prerequisites 
 
-The steps shown in setting up Sentinel on Terraform Cloud assummes the prerequisites shown below:
+The steps shown in setting up Sentinel on Terraform Cloud assummes the prerequisites below:
 
 * Terraform Cloud access [https://app.terraform.io/signup/account)
 * Terraform Cloud for Business license [https://www.hashicorp.com/contact-sales/terraform)
