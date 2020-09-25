@@ -49,14 +49,12 @@ More detailed steps are listed on HashiCorp [documentation]
 
 <center>
 <img align="center" src="/assets/images/sentinel_policy_set.png" alt=""> 
-  <figcaption>Sample Ansible Tower reference architecture</figcaption>
 </center>
 
 With a TFC4B license, you should be able to see under Settings > Policy Sets > Connect a New Policy Set and follow the instructions to link your repository with your Sentinel policy. The repository should contain a `sentinel.hcl` file with the Sentinel code written in it. Once done you, should be able to see the repository appears on screen, as per the image above.
 
 <center>
 <img align="center" src="/assets/images/sentinel_policy_set_2.png" alt=""> 
-  <figcaption>Sample Ansible Tower reference architecture</figcaption>
 </center>
 
 Next, click on the repository created and choose to apply the policy set on the workspace desired. You can to all workspaces or select a couple based on your preference.
@@ -65,7 +63,6 @@ Next, click on the repository created and choose to apply the policy set on the 
 
 <center>
 <img align="center" src="/assets/images/sentinel_policy_set_3.png" alt=""> 
-  <figcaption>Sample Ansible Tower reference architecture</figcaption>
 </center>
 Queue a Terraform Plan as per usual, you should now be able to see an additional row prior to the provisioning with a Policy Check. The results will be based on the Sentinel policies written that was configured to the Policy Set earlier on. In Sentinel, there are basically 3 different enforcement levels to set on the Sentinel policy, mainly `advisory`, `soft-mandatory` and `hard-mandatory`. More details of each enforcement level are described [here]. In this case, the Policy check is failing a `soft-mandatory`, which means it can be overriden by a user with higher authority.
 
@@ -74,7 +71,7 @@ Queue a Terraform Plan as per usual, you should now be able to see an additional
 
 <center>
 <img align="center" src="/assets/images/sentinel_policy_set_4.png" alt=""> 
-  <figcaption>Sample Ansible Tower reference architecture</figcaption>
+ 
 </center>
 You can also read on the Policy check failure logs by clicking the drop down. 
 
@@ -83,6 +80,7 @@ You can also read on the Policy check failure logs by clicking the drop down.
 
 <center>
 <img align="center" src="/assets/images/tfc_sentinel_workflow.png" alt=""> 
+     <figcaption>Sample workflow of Terraform Cloud with Sentinel</figcaption>
 </center>
 
 
