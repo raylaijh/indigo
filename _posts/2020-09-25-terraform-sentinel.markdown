@@ -13,7 +13,7 @@ tag:
 category: blog
 ---
 
-Recently I had the chance to work on the features of Terraform Cloud for Business and was trying to understand its exclusive uses cases compared to the open source version of Terraform. Sentinel integration is one of them and I do feel that it value adds to an organization by solving a prevalent problem of security compliance of provisioned infrastructure.
+Recently I had the chance to work on the features of Terraform Cloud for Business and was trying to understand its exclusive uses cases compared to the open source version of Terraform. Sentinel integration is one of them and I do feel that it value adds to an organization by solving a prevalent problem of ensuring security compliance of provisioned infrastructure.
 
 ### What is Sentinel?
 
