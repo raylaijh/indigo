@@ -92,5 +92,5 @@ This is a common cause of concern among organizations as the compliance check pr
 Therefore, having Sentinel to perform compliance checks at pre resource provisioning phase proved to be a good solution to solve compliance issues and achieve lesser operating overhead as it preempts users prior to provisioning. The icing on the cake is that, Sentinel, as a Policy as a Code solution on top of Terraform is not overly complicated and does not require a massive change to exising workflows too. In that regard, I consider this a pretty good solution for organizations who might have issues with complying and enforcing certain security policies like NIST or CIS in their environment.
 
 ### Useful links
-https://www.hashicorp.com/resources/testing-terraform-sentinel-policies-using-mocks
-https://medium.com/hashicorp-engineering/using-new-sentinel-features-in-terraform-cloud-c1ade728cbb
+* https://www.hashicorp.com/resources/testing-terraform-sentinel-policies-using-mocks
+* https://medium.com/hashicorp-engineering/using-new-sentinel-features-in-terraform-cloud-c1ade728cbb
