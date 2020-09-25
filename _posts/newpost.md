@@ -90,7 +90,7 @@ As seen above, enforcement of policies can be done even before the provisioning 
 This is a common cause of concern among organizations as the compliance check process is done usually after provisioning and at which sometimes, a possible breach may have already happened due to the sheer amount of resources provisioned at one time. Secondly, some of these resources may already be running essential workloads and the process of security compliance checking can cause disruption. 
 
 
-Therefore, with Sentinel perform compliance checks pre resource provisioning could be a good solution to solve compliance issues. This Policy as a Code solution on top of Terraform is pretty easy to set up as well as shown above.
+Therefore, with Sentinel perform compliance checks pre resource provisioning could be a good solution to solve compliance issues. This Policy as a Code solution on top of Terraform is pretty easy to set up as well as shown above. 
 
 ### Useful links
 https://www.hashicorp.com/resources/testing-terraform-sentinel-policies-using-mocks
