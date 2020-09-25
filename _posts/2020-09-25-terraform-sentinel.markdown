@@ -51,7 +51,7 @@ More detailed steps are listed on HashiCorp [documentation]
 <img align="center" src="/assets/images/sentinel_policy_set.png" alt=""> 
 </center>
 
-With a TFC4B license, you should be able to see under Settings > Policy Sets > Connect a New Policy Set and follow the instructions to link your repository with your Sentinel policy. The repository should contain a `sentinel.hcl` file with the Sentinel code written in it. Once done you, should be able to see the repository appears on screen, as per the image above.
+With a TFC4B license, you should be able to see under **Settings** > **Policy Sets** > **Connect a New Policy Set** and follow the instructions to link your repository with your Sentinel policy. The repository should contain a `sentinel.hcl` file with the Sentinel code written in it. Once done you, should be able to see the repository appears on screen, as per the image above.
 
 <center>
 <img align="center" src="/assets/images/sentinel_policy_set_2.png" alt=""> 
